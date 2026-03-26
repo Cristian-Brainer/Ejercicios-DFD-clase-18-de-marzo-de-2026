@@ -1,6 +1,6 @@
-# Ejercicios-DFD-clase-18-de-marzo-de-2026
+# Ejercicios 18/03/2026 - 25/03/2026 - DFD
 
-INTEGRANTES:
+## Integrantes
 
 Cristian David Ramos Barragan – 001136165
 
